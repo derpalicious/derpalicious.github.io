@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 2
-date: 2014
+date: 2014-10-8
 img: showersong.png
 alt: image-alt
 project-date: 2014

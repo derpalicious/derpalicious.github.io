@@ -1,11 +1,12 @@
 ---
 layout: default
 modal-id: 1
-date: 2013
+date: 2014-10-8
 img: rocket1.png
 alt: image-alt
 project-date: 2013
-client: N/A
+client: None
 category: 3D Animation
 description: Small personal project involving a rocket launch.
+
 ---
