@@ -24,7 +24,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Salt Lake City, UT 84109
+  - line: zach@dogefriendly.net
 
 # Build settings
 markdown: kramdown
