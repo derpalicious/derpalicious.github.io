@@ -5,6 +5,7 @@ date: 2014
 img: showersong.png
 alt: image-alt
 project-date: 2014
+client: N/A
 category: 3D Animation
 description: Personal project involving lip-sync of various instruments and singer. <a href="https://www.youtube.com/watch?v=0gTTjB9lWT4&list=UUZHrE_MaODiS49ys7GiR-Mg">Full video available here.</a>
 
